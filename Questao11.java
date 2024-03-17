@@ -13,7 +13,7 @@ public class Questao11 {
         Scanner ler = new Scanner (System.in);
         
         int horas;
-        double w, kWh, valorKWh, consumo, valortotal;
+        double w, valorKWh, consumo, valortotal;
         
         System.out.print("Informe as informações: \n"
                 + "\nQual a potencia em Watt(s) (W): ");
